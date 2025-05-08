@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "Whole Numbers",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Integers",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Fractions",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Decimals",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Rational Numbers",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Irrational Numbers",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Real Numbers",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Surds and Indices",
+      "category": "Number Systems"
+    },
+    {
+      "id": "Algebraic Expressions",
+      "category": "Algebra"
+    },
+    {
+      "id": "Linear Equations",
+      "category": "Algebra"
+    },
+    {
+      "id": "Quadratic Equations",
+      "category": "Algebra"
+    },
+    {
+      "id": "Polynomials",
+      "category": "Algebra"
+    },
+    {
+      "id": "Factorization",
+      "category": "Algebra"
+    },
+    {
+      "id": "Inequalities",
+      "category": "Algebra"
+    },
+    {
+      "id": "Functions",
+      "category": "Algebra"
+    },
+    {
+      "id": "Linear Functions",
+      "category": "Algebra"
+    },
+    {
+      "id": "Quadratic Functions",
+      "category": "Algebra"
+    },
+    {
+      "id": "Exponential Functions",
+      "category": "Algebra"
+    },
+    {
+      "id": "Lines and Angles",
+      "category": "Geometry"
+    },
+    {
+      "id": "Triangles",
+      "category": "Geometry"
+    },
+    {
+      "id": "Congruence",
+      "category": "Geometry"
+    },
+    {
+      "id": "Similarity",
+      "category": "Geometry"
+    },
+    {
+      "id": "Quadrilaterals",
+      "category": "Geometry"
+    },
+    {
+      "id": "Circles",
+      "category": "Geometry"
+    },
+    {
+      "id": "Constructions",
+      "category": "Geometry"
+    },
+    {
+      "id": "Coordinate Geometry",
+      "category": "Geometry"
+    },
+    {
+      "id": "Mensuration",
+      "category": "Geometry"
+    },
+    {
+      "id": "3D Geometry",
+      "category": "Geometry"
+    },
+    {
+      "id": "Introduction to Trigonometry",
+      "category": "Trigonometry"
+    },
+    {
+      "id": "Trigonometric Ratios",
+      "category": "Trigonometry"
+    },
+    {
+      "id": "Trigonometric Identities",
+      "category": "Trigonometry"
+    },
+    {
+      "id": "Heights and Distances",
+      "category": "Trigonometry"
+    },
+    {
+      "id": "Graphs of Trig Functions",
+      "category": "Trigonometry"
+    },
+    {
+      "id": "Data Representation",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Mean, Median, Mode",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Probability (Basic)",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Probability (Advanced)",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Histograms",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Cumulative Frequency",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Standard Deviation",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Box Plots",
+      "category": "Data Handling and Statistics"
+    },
+    {
+      "id": "Limits and Continuity",
+      "category": "Calculus"
+    },
+    {
+      "id": "Derivatives",
+      "category": "Calculus"
+    },
+    {
+      "id": "Applications of Derivatives",
+      "category": "Calculus"
+    },
+    {
+      "id": "Integration",
+      "category": "Calculus"
+    },
+    {
+      "id": "Definite Integrals",
+      "category": "Calculus"
+    },
+    {
+      "id": "Area under Curves",
+      "category": "Calculus"
+    },
+    {
+      "id": "Differential Equations",
+      "category": "Calculus"
+    },
+    {
+      "id": "Introduction to Sets",
+      "category": "Set Theory and Logic"
+    },
+    {
+      "id": "Venn Diagrams",
+      "category": "Set Theory and Logic"
+    },
+    {
+      "id": "Operations on Sets",
+      "category": "Set Theory and Logic"
+    },
+    {
+      "id": "Mathematical Reasoning",
+      "category": "Set Theory and Logic"
+    },
+    {
+      "id": "Propositions and Logical Connectives",
+      "category": "Set Theory and Logic"
+    },
+    {
+      "id": "Basics of Matrices",
+      "category": "Matrices and Determinants"
+    },
+    {
+      "id": "Matrix Operations",
+      "category": "Matrices and Determinants"
+    },
+    {
+      "id": "Determinants",
+      "category": "Matrices and Determinants"
+    },
+    {
+      "id": "Inverse of a Matrix",
+      "category": "Matrices and Determinants"
+    },
+    {
+      "id": "System of Linear Equations",
+      "category": "Matrices and Determinants"
+    },
+    {
+      "id": "Vector Algebra",
+      "category": "Vectors and 3D"
+    },
+    {
+      "id": "Dot and Cross Product",
+      "category": "Vectors and 3D"
+    },
+    {
+      "id": "3D Geometry: Lines",
+      "category": "Vectors and 3D"
+    },
+    {
+      "id": "3D Geometry: Planes",
+      "category": "Vectors and 3D"
+    },
+    {
+      "id": "Direction Cosines and Ratios",
+      "category": "Vectors and 3D"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Whole Numbers",
+      "to": "Integers"
+    },
+    {
+      "from": "Integers",
+      "to": "Fractions"
+    },
+    {
+      "from": "Fractions",
+      "to": "Decimals"
+    },
+    {
+      "from": "Decimals",
+      "to": "Rational Numbers"
+    },
+    {
+      "from": "Rational Numbers",
+      "to": "Real Numbers"
+    },
+    {
+      "from": "Irrational Numbers",
+      "to": "Real Numbers"
+    },
+    {
+      "from": "Real Numbers",
+      "to": "Surds and Indices"
+    },
+    {
+      "from": "Rational Numbers",
+      "to": "Algebraic Expressions"
+    },
+    {
+      "from": "Algebraic Expressions",
+      "to": "Linear Equations"
+    },
+    {
+      "from": "Linear Equations",
+      "to": "Quadratic Equations"
+    },
+    {
+      "from": "Quadratic Equations",
+      "to": "Functions"
+    },
+    {
+      "from": "Functions",
+      "to": "Linear Functions"
+    },
+    {
+      "from": "Functions",
+      "to": "Quadratic Functions"
+    },
+    {
+      "from": "Functions",
+      "to": "Exponential Functions"
+    },
+    {
+      "from": "Lines and Angles",
+      "to": "Triangles"
+    },
+    {
+      "from": "Triangles",
+      "to": "Congruence"
+    },
+    {
+      "from": "Congruence",
+      "to": "Similarity"
+    },
+    {
+      "from": "Similarity",
+      "to": "Quadrilaterals"
+    },
+    {
+      "from": "Quadrilaterals",
+      "to": "Circles"
+    },
+    {
+      "from": "Circles",
+      "to": "Constructions"
+    },
+    {
+      "from": "Constructions",
+      "to": "Coordinate Geometry"
+    },
+    {
+      "from": "Coordinate Geometry",
+      "to": "Mensuration"
+    },
+    {
+      "from": "Mensuration",
+      "to": "3D Geometry"
+    },
+    {
+      "from": "Triangles",
+      "to": "Introduction to Trigonometry"
+    },
+    {
+      "from": "Introduction to Trigonometry",
+      "to": "Trigonometric Ratios"
+    },
+    {
+      "from": "Trigonometric Ratios",
+      "to": "Trigonometric Identities"
+    },
+    {
+      "from": "Trigonometric Identities",
+      "to": "Heights and Distances"
+    },
+    {
+      "from": "Trigonometric Ratios",
+      "to": "Graphs of Trig Functions"
+    },
+    {
+      "from": "Whole Numbers",
+      "to": "Data Representation"
+    },
+    {
+      "from": "Data Representation",
+      "to": "Mean, Median, Mode"
+    },
+    {
+      "from": "Mean, Median, Mode",
+      "to": "Histograms"
+    },
+    {
+      "from": "Histograms",
+      "to": "Cumulative Frequency"
+    },
+    {
+      "from": "Mean, Median, Mode",
+      "to": "Standard Deviation"
+    },
+    {
+      "from": "Standard Deviation",
+      "to": "Box Plots"
+    },
+    {
+      "from": "Cumulative Frequency",
+      "to": "Probability (Basic)"
+    },
+    {
+      "from": "Probability (Basic)",
+      "to": "Probability (Advanced)"
+    },
+    {
+      "from": "Functions",
+      "to": "Limits and Continuity"
+    },
+    {
+      "from": "Limits and Continuity",
+      "to": "Derivatives"
+    },
+    {
+      "from": "Derivatives",
+      "to": "Applications of Derivatives"
+    },
+    {
+      "from": "Applications of Derivatives",
+      "to": "Integration"
+    },
+    {
+      "from": "Integration",
+      "to": "Definite Integrals"
+    },
+    {
+      "from": "Definite Integrals",
+      "to": "Area under Curves"
+    },
+    {
+      "from": "Derivatives",
+      "to": "Differential Equations"
+    },
+    {
+      "from": "Whole Numbers",
+      "to": "Introduction to Sets"
+    },
+    {
+      "from": "Introduction to Sets",
+      "to": "Venn Diagrams"
+    },
+    {
+      "from": "Venn Diagrams",
+      "to": "Operations on Sets"
+    },
+    {
+      "from": "Operations on Sets",
+      "to": "Mathematical Reasoning"
+    },
+    {
+      "from": "Mathematical Reasoning",
+      "to": "Propositions and Logical Connectives"
+    },
+    {
+      "from": "Linear Equations",
+      "to": "Basics of Matrices"
+    },
+    {
+      "from": "Basics of Matrices",
+      "to": "Matrix Operations"
+    },
+    {
+      "from": "Matrix Operations",
+      "to": "Determinants"
+    },
+    {
+      "from": "Determinants",
+      "to": "Inverse of a Matrix"
+    },
+    {
+      "from": "Inverse of a Matrix",
+      "to": "System of Linear Equations"
+    },
+    {
+      "from": "Coordinate Geometry",
+      "to": "Vector Algebra"
+    },
+    {
+      "from": "Vector Algebra",
+      "to": "Dot and Cross Product"
+    },
+    {
+      "from": "Dot and Cross Product",
+      "to": "3D Geometry: Lines"
+    },
+    {
+      "from": "3D Geometry: Lines",
+      "to": "3D Geometry: Planes"
+    },
+    {
+      "from": "3D Geometry: Planes",
+      "to": "Direction Cosines and Ratios"
+    }
+  ]
+}

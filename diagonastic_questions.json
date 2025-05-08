@@ -1,0 +1,507 @@
+[
+    {
+      "id": "Q001",
+      "subject": "Algebra",
+      "topic": "Factoring",
+      "question": "If a friend asked you to help with Factoring, how sure would you be that you could explain it?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q002",
+      "subject": "Algebra",
+      "topic": "Linear Equations",
+      "question": "Could you tell me what Linear Equations is and why it works that way?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q003",
+      "subject": "Algebra",
+      "topic": "Quadratic Equations",
+      "question": "When you're working on a Quadratic Equations problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q004",
+      "subject": "Algebra",
+      "topic": "Functions",
+      "question": "If you have a Functions question, how do you usually start? What comes next?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q005",
+      "subject": "Algebra",
+      "topic": "Exponents",
+      "question": "How does doing well or poorly on Exponents problems affect how you see yourself?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q006",
+      "subject": "Algebra",
+      "topic": "Polynomials",
+      "question": "Why do you think Polynomials is useful? What does it represent?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q007",
+      "subject": "Algebra",
+      "topic": "Ratios",
+      "question": "How do you decide which method to use when solving Ratios problems?",
+      "cognitive_focus": "metacognition"
+    },
+    {
+      "id": "Q008",
+      "subject": "Algebra",
+      "topic": "Systems of Equations",
+      "question": "When I mention Systems of Equations, what do you think about? Why is it important?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q009",
+      "subject": "Algebra",
+      "topic": "Slope",
+      "question": "When you're working on a Slope problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q010",
+      "subject": "Algebra",
+      "topic": "Inequalities",
+      "question": "If you're working on Inequalities and get the wrong answer, how do you feel and what do you do next?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q011",
+      "subject": "Algebra",
+      "topic": "Linear Functions",
+      "question": "When you think of Linear Functions, what comes to your mind? Why?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q012",
+      "subject": "Algebra",
+      "topic": "Function Notation",
+      "question": "How confident do you feel about solving Function Notation problems?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q013",
+      "subject": "Algebra",
+      "topic": "Multiplying Fractions",
+      "question": "If you feel stuck on a Multiplying Fractions problem, how do you react emotionally?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q014",
+      "subject": "Algebra",
+      "topic": "Sequence",
+      "question": "Could you describe how you would do a Sequence problem step by step?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q015",
+      "subject": "Algebra",
+      "topic": "Word Problems",
+      "question": "What is the first thing you do when tackling a Word Problems question, and what do you do after?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q016",
+      "subject": "Geometry",
+      "topic": "Triangles",
+      "question": "Why do we study Triangles? What do you think its purpose is in Geometry?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q017",
+      "subject": "Geometry",
+      "topic": "Circles",
+      "question": "When Circles problems get difficult, do you feel frustrated? How do you handle it?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q018",
+      "subject": "Geometry",
+      "topic": "Angles",
+      "question": "If a classmate says that all triangles have equal sides, how would you respond?",
+      "cognitive_focus": "misconception_detection"
+    },
+    {
+      "id": "Q019",
+      "subject": "Geometry",
+      "topic": "Pythagorean Theorem",
+      "question": "When you solve Pythagorean Theorem problems, how do you work through them step by step?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q020",
+      "subject": "Geometry",
+      "topic": "Area",
+      "question": "Do you ever feel anxious or nervous about Area? What goes through your mind?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q021",
+      "subject": "Geometry",
+      "topic": "Volume",
+      "question": "What do you think Volume helps us understand in Geometry? Explain.",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q022",
+      "subject": "Geometry",
+      "topic": "Similarity",
+      "question": "How do you decide which method to use when solving Similarity problems?",
+      "cognitive_focus": "metacognition"
+    },
+    {
+      "id": "Q023",
+      "subject": "Geometry",
+      "topic": "Perimeter",
+      "question": "How confident do you feel about solving Perimeter problems?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q024",
+      "subject": "Geometry",
+      "topic": "Proofs",
+      "question": "If someone says all triangles are similar shapes, is that correct? Why or why not?",
+      "cognitive_focus": "misconception_detection"
+    },
+    {
+      "id": "Q025",
+      "subject": "Geometry",
+      "topic": "Transformations",
+      "question": "What steps do you follow when solving a Transformations problem?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q026",
+      "subject": "Geometry",
+      "topic": "Parallel Lines",
+      "question": "How do you feel when you see a Parallel Lines question that's tricky or confusing?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q027",
+      "subject": "Geometry",
+      "topic": "Coordinates",
+      "question": "Could you explain the concept of Coordinates and why we use it?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q028",
+      "subject": "Geometry",
+      "topic": "3D Shapes",
+      "question": "If you have a 3D Shapes question, how do you usually start? What comes next?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q029",
+      "subject": "Geometry",
+      "topic": "Quadrilateral Properties",
+      "question": "Think about a time Quadrilateral Properties was hard. What were you feeling, and what did you do?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q030",
+      "subject": "Geometry",
+      "topic": "Inscribed Angles",
+      "question": "When you think of Inscribed Angles, what comes to your mind? Why?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q031",
+      "subject": "Trigonometry",
+      "topic": "Right Triangles",
+      "question": "How confident do you feel about solving Right Triangles problems?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q032",
+      "subject": "Trigonometry",
+      "topic": "Sine and Cosine",
+      "question": "Do you think sine and cosine only apply to right triangles? Why?",
+      "cognitive_focus": "misconception_detection"
+    },
+    {
+      "id": "Q033",
+      "subject": "Trigonometry",
+      "topic": "Unit Circle",
+      "question": "What do you think Unit Circle helps us understand in Trigonometry? Explain.",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q034",
+      "subject": "Trigonometry",
+      "topic": "Trigonometric Identities",
+      "question": "Can you explain your thinking process as you solve a Trigonometric Identities problem?",
+      "cognitive_focus": "metacognition"
+    },
+    {
+      "id": "Q035",
+      "subject": "Trigonometry",
+      "topic": "Angle of Elevation",
+      "question": "When you're working on an Angle of Elevation problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q036",
+      "subject": "Trigonometry",
+      "topic": "Degrees and Radians",
+      "question": "If a classmate says all angles must be in degrees and never in radians, is that correct? Why or why not?",
+      "cognitive_focus": "misconception_detection"
+    },
+    {
+      "id": "Q037",
+      "subject": "Trigonometry",
+      "topic": "Graphing Sine",
+      "question": "How do you feel when you see a Graphing Sine question that's tricky or confusing?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q038",
+      "subject": "Trigonometry",
+      "topic": "Coterminal Angles",
+      "question": "Could you describe how you would do a Coterminal Angles problem step by step?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q039",
+      "subject": "Trigonometry",
+      "topic": "Inverse Trigonometric",
+      "question": "When you think of Inverse Trigonometric, what comes to your mind? Why?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q040",
+      "subject": "Trigonometry",
+      "topic": "Law of Sines",
+      "question": "Do you ever feel anxious or nervous about Law of Sines? What goes through your mind?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q041",
+      "subject": "Calculus",
+      "topic": "Limits",
+      "question": "What do you think Limits helps us understand in Calculus? Explain.",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q042",
+      "subject": "Calculus",
+      "topic": "Derivatives",
+      "question": "Could you tell me what Derivatives is and why it works that way?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q043",
+      "subject": "Calculus",
+      "topic": "Integrals",
+      "question": "If you're working on Integrals and get the wrong answer, how do you feel and what do you do next?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q044",
+      "subject": "Calculus",
+      "topic": "Slope of Tangent",
+      "question": "How confident do you feel about solving Slope of Tangent problems?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q045",
+      "subject": "Calculus",
+      "topic": "Area Under Curve",
+      "question": "When you're working on an Area Under Curve problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q046",
+      "subject": "Calculus",
+      "topic": "Velocity",
+      "question": "When I mention Velocity, what do you think about? Why is it important?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q047",
+      "subject": "Calculus",
+      "topic": "Acceleration",
+      "question": "What steps do you follow when solving an Acceleration problem?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q048",
+      "subject": "Calculus",
+      "topic": "Related Rates",
+      "question": "If you have a Related Rates question, how do you usually start? What comes next?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q049",
+      "subject": "Calculus",
+      "topic": "Average Rate of Change",
+      "question": "What do you tell yourself about your abilities when you work on Average Rate of Change questions?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q050",
+      "subject": "Calculus",
+      "topic": "Graphs of Functions",
+      "question": "How do you feel when you see a Graphs of Functions question that's tricky or confusing?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q051",
+      "subject": "Physics",
+      "topic": "Kinematics",
+      "question": "Do you ever feel anxious or nervous about Kinematics? What goes through your mind?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q052",
+      "subject": "Physics",
+      "topic": "Newton's Laws",
+      "question": "Some students think heavy objects fall faster than light ones. What do you think about that idea?",
+      "cognitive_focus": "misconception_detection"
+    },
+    {
+      "id": "Q053",
+      "subject": "Physics",
+      "topic": "Forces",
+      "question": "What steps do you follow when solving a Forces problem?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q054",
+      "subject": "Physics",
+      "topic": "Energy",
+      "question": "When Energy problems get difficult, do you feel frustrated? How do you handle it?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q055",
+      "subject": "Physics",
+      "topic": "Momentum",
+      "question": "If you have a Momentum question, how do you usually start? What comes next?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q056",
+      "subject": "Physics",
+      "topic": "Electric Circuits",
+      "question": "What do you think Electric Circuits helps us understand in Physics? Explain.",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q057",
+      "subject": "Physics",
+      "topic": "Wave Frequency",
+      "question": "How confident do you feel about solving Wave Frequency problems?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q058",
+      "subject": "Physics",
+      "topic": "Reflection",
+      "question": "Could you explain your thinking process as you solve a Reflection problem?",
+      "cognitive_focus": "metacognition"
+    },
+    {
+      "id": "Q059",
+      "subject": "Physics",
+      "topic": "Gravity",
+      "question": "How do you decide which method to use when solving Gravity problems?",
+      "cognitive_focus": "metacognition"
+    },
+    {
+      "id": "Q060",
+      "subject": "Physics",
+      "topic": "Friction",
+      "question": "When you're working on a Friction problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q061",
+      "subject": "Physics",
+      "topic": "Pressure",
+      "question": "If someone says that heavy objects fall faster than light ones, what do you think?",
+      "cognitive_focus": "misconception_detection"
+    },
+    {
+      "id": "Q062",
+      "subject": "Physics",
+      "topic": "Density",
+      "question": "When I mention Density, what do you think about? Why is it important?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q063",
+      "subject": "Physics",
+      "topic": "Power",
+      "question": "When you're working on a Power problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q064",
+      "subject": "Physics",
+      "topic": "Kinetic Energy",
+      "question": "If you feel stuck on a Kinetic Energy problem, how do you react emotionally?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q065",
+      "subject": "Physics",
+      "topic": "Potential Energy",
+      "question": "How do you decide which method to use when solving Potential Energy problems?",
+      "cognitive_focus": "metacognition"
+    },
+    {
+      "id": "Q066",
+      "subject": "Physics",
+      "topic": "Sound Waves",
+      "question": "Could you tell me what Sound Waves is and why it works that way?",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q067",
+      "subject": "Physics",
+      "topic": "Magnetism",
+      "question": "What do you think Magnetism helps us understand in Physics? Explain.",
+      "cognitive_focus": "conceptual_understanding"
+    },
+    {
+      "id": "Q068",
+      "subject": "Physics",
+      "topic": "Mass vs Weight",
+      "question": "When you're working on a Mass vs Weight problem, how do you decide what to do first?",
+      "cognitive_focus": "procedural_knowledge"
+    },
+    {
+      "id": "Q069",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "How do you feel when you see a Thermodynamics question that's tricky or confusing?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q070",
+      "subject": "Physics",
+      "topic": "Projectile Motion",
+      "question": "If a friend asked you to help with Projectile Motion, how sure would you be that you could explain it?",
+      "cognitive_focus": "confidence_level"
+    },
+    {
+      "id": "Q071",
+      "subject": "Chemistry",
+      "topic": "Periodic Table",
+      "question": "If you feel stuck on a Periodic Table problem, how do you react emotionally?",
+      "cognitive_focus": "frustration_tolerance"
+    },
+    {
+      "id": "Q072",
+      "subject": "Chemistry",
+      "topic": "Moles",
+      "question": "When Moles problems get difficult, do you feel frustrated? How do you handle it?",
+      "cognitive_focus": "frustration_tolerance"
+    }
+  ]
+  
